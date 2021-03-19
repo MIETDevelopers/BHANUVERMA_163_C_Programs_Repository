@@ -1,0 +1,31 @@
+#include <stdio.h>
+int main(){   
+	int side_of_square;
+	int length_of_rectangle, breadth_of_rectangle;
+	int radius_of_circle;
+
+	int area_of_square, area_of_rectangle, perimeter_of_square, perimeter_of_rectangle;
+	
+	//variable declaration of float data type
+	float area_of_circle, perimeter_of_circle;       
+
+	//from line 9 to 18 the values of variables are declared
+	radiusofcircle=3;
+	sideofsquare=4;
+	lengthofrectangle=5;
+	breadthofrectangle=2;
+	areaofcircle=3.14*(radiusofcircle*radiusofcircle);
+	perimeterofcircle=2*3.14*(radiusofcircle);
+	areaofsquare=sideofsquare*sideofsquare;
+	perimeterofsquare=4*(sideofsquare);
+	areaofrectangle=lengthofrectangle*breadthofrectangle;
+	perimeterofrectangle=2*(lengthofrectangle+breadthofrectangle);
+
+	printf("Area of Circle=%f\n",areaofcircle);//printing the value of area of circle
+	printf("Circumfrence of Circle=%f\n",perimeterofcircle);//printing the value of circumfrence of circle
+	printf("Area of Square=%d\n",areaofsquare);//printing the value of area of square
+	printf("Perimeter of Square=%d\n",perimeterofsquare);//printing the value of perimeter of square
+	printf("Area of Rectangle=%d\n",areaofrectangle);//printing the value of area of rectangle
+	printf("Perimeter of Rectangle=%d\n",perimeterofrectangle);//printing the value of perimeter of rectangle
+return 0;
+}
