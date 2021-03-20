@@ -1,4 +1,8 @@
-#include <stdio.h> //standard input output library
+//Arithmetic operations using addition, subtraction, multiplication and remainder operator
+//Written by -- BHANU VERMA
+
+
+#include <stdio.h> //Pre-Process directive to include input output header file.
 int main() { //Main function body starting..
 
     char operator; // declaring variable name operator of char data type.
@@ -32,7 +36,7 @@ int main() { //Main function body starting..
         break;
         // operator doesn't match any case constant.
     default:
-        printf("Error! operator is not correct");
+        printf("\nError! operator is not correct");
     }
 
     return 0;
