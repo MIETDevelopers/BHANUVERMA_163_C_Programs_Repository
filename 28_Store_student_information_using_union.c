@@ -3,8 +3,8 @@
 // 21-03-2021
 
 
-#include <stdio.h> //Pre-processor directive to include standard input and output functions header file
-#include <string.h> // Pre-processor directive to include string functions header file
+#include <stdio.h> //Pre-Process directive to include standard input and output functions header file
+#include <string.h> // Pre-Process directive to include string functions header file
 union student{ //union body
 	char name[20]; 
 	char subject[20];
