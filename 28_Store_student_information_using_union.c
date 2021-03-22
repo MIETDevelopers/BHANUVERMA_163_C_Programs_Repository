@@ -20,7 +20,7 @@ int main(){ //Main function body staring
 
 	//Assigning values to store1 union variable and printing the information
 
-	printf("Union store 1 values example:\n"); //Printf function calling
+	printf("Union store 1 values :\n"); //Printf function calling
 
 	//Name of Student
 	strcpy(store1.name, "KOUSHIK_MAHAJAN");
@@ -38,7 +38,7 @@ int main(){ //Main function body staring
 
 	//Assigning values to record2 union variable and printing the information
 
-	printf("Union record 2 values example:\n"); //Printf function calling
+	printf("Union store 2 values :\n"); //Printf function calling
 
 	//Name of student
 	strcpy(store2.name, "RAJVEER_RANA");
