@@ -6,7 +6,7 @@
 
 #include <stdio.h> //Pre-Process directive to include standard input output header file
 int main() { //Main function body starting
-    int num, originalNum, remainder, result = 0; ////variable declaration of integer data type
+    int num, originalNum, remainder, result = 0; //variable declaration of integer data type
     printf("Enter a three-digit integer: ");
     scanf("%d", &num); //taking num as a input from the user 
     originalNum = num; 

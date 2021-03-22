@@ -1,7 +1,6 @@
 //Arithmetic operations using addition, subtraction, multiplication and remainder operator
 //Written by -- BHANU VERMA
 
-
 #include <stdio.h> //Pre-Process directive to include input output header file.
 int main() { //Main function body starting..
 
