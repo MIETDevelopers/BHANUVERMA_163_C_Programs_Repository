@@ -4,7 +4,7 @@
 
 /* I HAVE DOUBT IN THIS PROGRAM */
 
-#include<stdio.h> //Pre-Process directive to include standard input output header file
+#include<stdio.h> //Pre-Process directive to include standard input output functions header file
 int main(){ // main function body starting
 
    /* Here i & j for loop counters, temp for swapping,
