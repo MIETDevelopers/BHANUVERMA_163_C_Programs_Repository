@@ -1,6 +1,6 @@
 //function implementation which returns a pointer.
 //Writted by -- BHANU VERMA
-//30-03-2
+//30-03-2021
 
 #include <stdio.h>//Pre Process directive to include standard input output functions header file
 
