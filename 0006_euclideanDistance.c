@@ -24,5 +24,6 @@ int main() //Main function body starting..
     printf("Distance between (%f, %f) and (%f, %f) is %f\n", x1, y1, x2, y2, distance);  
   
     return 0;  //return function of standard library
+
     
 }  //main function body ends
