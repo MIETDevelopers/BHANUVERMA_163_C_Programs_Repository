@@ -13,6 +13,10 @@ int main() //Main function body starting
     char name[50]; 
     int rollno, marks; 
 
+    name == Bhanu;
+    rollno == 163;
+    marks == 90;
+
     if (!fp) { 
         // Error in file opening 
         printf("Can't open file\n"); 
@@ -20,15 +24,11 @@ int main() //Main function body starting
     }
 
     //Taking input from the user for the new record to be added.   
-    printf("\nEnter Student Name\n"); 
-    scanf("%s", &name); 
+    printf("\nEnter Student Name\n");  
 
     printf("\nEnter Roll Number\n"); 
-    scanf("%d", &rollno); 
 
     printf("\nEnter Attendance\n"); 
-    scanf("%d", &marks); 
-
 
     // Saving data in file 
     fprintf(fp, "%s, %d, %d\n", name, 
