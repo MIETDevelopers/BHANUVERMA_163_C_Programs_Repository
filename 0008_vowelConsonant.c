@@ -2,7 +2,7 @@
 // Writted by -- BHANU VERMA
 // 30-03-2021
 
-#include <stdio.h> // Pre-Process directive to include Standard input output header file
+#include <stdio.h> // Pre-Process directive to include Standard input output functions header file
 int main() { // Main function body starting..
     char c; // c variable declaration of char data type.
     int lowercase_vowel, uppercase_vowel; //lowercase_vowel and uppercase_vowel variable declaration of int data type
@@ -21,4 +21,5 @@ int main() { // Main function body starting..
     else
         printf("%c is a consonant.", c);// else it will print "c" is a constant.
     return 0;
-}
+
+} //main function body ends
