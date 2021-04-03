@@ -1,6 +1,6 @@
 // Program to take 10 values from the user and store them in an array
 //Writted by -- BHANU VERMA
-//30-03-2021
+//31-03-2021
 
 #include <stdio.h> //Pre-Process directive to include standard input output header file.
 
