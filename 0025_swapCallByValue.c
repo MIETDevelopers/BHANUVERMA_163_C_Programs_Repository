@@ -3,7 +3,7 @@
 // 30-03-2021
 
 
-#include <stdio.h> //Pre-Process directive to include input output header file.
+#include <stdio.h> //Pre-Process directive to include input output functions header file.
  
 void swap(int, int);
  
